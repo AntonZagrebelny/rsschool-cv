@@ -1,13 +1,13 @@
 # Anton Zagrebelny
 
-### Contact information:
+## Contact information:
 Discord: Anton Zagreb. (@Anton Zagrebelny)
 E-mail: ogamisupob@gmail.com
 
-### Courses:
+## Courses:
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 JavaScript Manual on learnjavascript.ru (in progress)
 
-### Languages:
+## Languages:
 Russian - Native
 English - B2
